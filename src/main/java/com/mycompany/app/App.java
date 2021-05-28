@@ -4,7 +4,7 @@ package com.mycompany.app;
  * Hello world!
  *
  */
-import java util.Scanner;
+import java.util.Scanner;
 public class App 
 {
     public static void main( String[] args )
